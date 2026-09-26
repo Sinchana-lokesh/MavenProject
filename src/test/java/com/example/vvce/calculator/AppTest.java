@@ -16,4 +16,8 @@ public class AppTest {
     void testSubtract() {
 		assertEquals(15,app.sub(20,5));
     }
+    @Test
+    void testMultiply() {
+		assertEquals(10,app.sub(2,5));
+}
 }
