@@ -18,6 +18,6 @@ public class AppTest {
     }
     @Test
     void testMultiply() {
-		assertEquals(10,app.sub(2,5));
+		assertEquals(10,app.mul(2,5));
 }
 }
